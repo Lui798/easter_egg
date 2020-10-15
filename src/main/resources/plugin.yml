@@ -1,0 +1,6 @@
+name: EasterEgg
+version: 1.0-SNAPSHOT
+author: NovaMC
+main: xyz.novaserver.easteregg.Plugin
+api-version: 1.16
+website: https://github.com/NovaMC
