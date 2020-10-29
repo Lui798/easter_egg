@@ -4,3 +4,10 @@ author: NovaMC
 main: xyz.novaserver.easteregg.Plugin
 api-version: 1.16
 website: https://github.com/NovaMC
+commands:
+  egg:
+    description: Hunter commands
+permissions:
+  easteregg.admin:
+    description: Admin permission for Hunter
+    default: op

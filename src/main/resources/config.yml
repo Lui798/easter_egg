@@ -1,0 +1,13 @@
+block:
+  x: 0
+  y: 0
+  z: 0
+key:
+  x: 0
+  y: 0
+  z: 0
+  name: '&dAmbiguous Key'
+  lore:
+    - ''
+    - '&7Right click a certain'
+    - '&7block to reveal a secret'
